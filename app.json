@@ -1,0 +1,17 @@
+{
+  "name": "kihon",
+  "displayName": "kihon",
+  "expo": {
+    "name": "kihon",
+    "slug": "kihon",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
